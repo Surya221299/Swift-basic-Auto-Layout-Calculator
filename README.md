@@ -1,7 +1,7 @@
 # Swift-basic-Auto-Layout-Calculator
 Simple Auto Layout Calculator App without any logic and functionality from Udemy Swift course.
 
-*_Simple demo GIF video Auto Layout Calculator App_
+*_Simple demo GIF video Auto Layout Calculator App._
 
 ![Auto Layout Calculator](https://user-images.githubusercontent.com/60531747/235947270-7d96c978-4ab1-4e5d-afd0-79c3cdaeade8.gif)
 
